@@ -119,7 +119,7 @@ nav a.active {
       rgba(25, 25, 20, 0.45) 55%,
       rgba(15, 15, 12, 0.6) 100%
     ),
-    url("./pic/hero.jpeg") center 30% / cover no-repeat;
+    url("./hero.jpeg") center 30% / cover no-repeat;
   overflow: hidden;
   padding: 70px 20px 90px;
 }
